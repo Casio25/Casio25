@@ -103,7 +103,7 @@
 | 🟦 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
 | ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
-| ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
+| ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟩 Fetch          |                  |                      |
 | 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
 | 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
