@@ -5,5 +5,5 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, HTML, CSS</code>
 <code>📦 Tech stack: node.js</code>
-<code>💬 telegram: [@mishakolomiets]([https://telegram.me/your-nikname](https://t.me/mishakolomiets))</code>
+<code>💬 telegram: [@mishakolomiets]([https://t.me/mishakolomiets])</code>
 <code>📫 [your-email](mishakolomiets355@gmail.coml)</code>
